@@ -1,0 +1,67 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Icon\r
+Icon
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+
+# Images #
+####################
+*.jpg
+*.gif
+*.png
+*.svg
+*.ico
+
+# Video #
+####################
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+*.avi
+*.mpeg
+*.mp4
+*.jpg
+
+
+# Directories #
+####################
+datastore/
+CarDetectStereo/detect_and_track/detection/dt.cc
+*.mexw64
+CarDetectStereo/detect_and_track/detection/fconvsse.cc
+CarDetectStereo/detect_and_track/detection/resize.cc
+*.asv
